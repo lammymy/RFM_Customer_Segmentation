@@ -3,7 +3,7 @@
 ### Project Overview
 RFM (Recency-Frequency-Monetary) is a widely used method for evaluating the value of customers based on important factors such as the most recent purchase time (Recency), purchase frequency (Frequency), and transaction value (Monetary).
 
-After obtaining the RFM indices, I will apply the KMeans algorithm - a powerful clustering algorithm - to segment customers into groups with similar characteristics. 
+After obtaining the RFM indices, I will apply the KMeans algorithm - a powerful clustering algorithm - to segment customers into groups with similar characteristics. Finally, base on the results to evaluate the quality of segmentation.
 ### Data Sources
 The primary dataset used for this analysis is the "data.xlsx" file.
 # Tools
